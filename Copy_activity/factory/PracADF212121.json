@@ -1,0 +1,9 @@
+{
+	"name": "PracADF212121",
+	"location": "norwayeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9acaddde-e40a-4f2a-8bce-cd94ace64a42",
+		"tenantId": "bb96a5b1-b7a6-47ad-92b7-2f59454b56aa"
+	}
+}
